@@ -21,6 +21,10 @@ That was easy.
 
 Programmatic Usage
 ------------------
+To use programmatically, you need to install locally.
+
+`npm install wpg`
+
     wpg = require("wpg")
     outXML = wpg.generateXMLFile()
 
