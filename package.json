@@ -14,8 +14,16 @@
     "engines": {
         "node": "*"
     },
+    "licenses": [{
+        "type": "WTFPL",
+        "url": "https://github.com/Dlom/wpg/blob/master/LICENSE"
+    }],
     "devDependencies": {
         "coffee-script": "~1.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Dlom/wpg.git"
     },
     "bin": "lib/cli.js",
     "preferGlobal": true
