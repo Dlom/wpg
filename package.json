@@ -1,0 +1,22 @@
+{
+    "name": "wpg",
+    "version": "0.0.1",
+    "description": "Generates the XML file for a changing GNOME background from the image files in the current workign directory",
+    "keywords": [
+        "gnome",
+        "wallpaper"
+    ],
+    "author": {
+        "name": "Mark Old",
+        "email": "dlom234@gmail.com"
+    },
+    "main": "lib/wpg.js",
+    "engines": {
+        "node": "*"
+    },
+    "devDependencies": {
+        "coffee-script": "~1.0.1"
+    },
+    "bin": "lib/cli.js",
+    "preferGlobal": true
+}

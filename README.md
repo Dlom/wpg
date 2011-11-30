@@ -9,7 +9,6 @@ Kind of a mouthful, eh?  That's why it's "wpg" and not "gdcwxfg"
 
 Installation
 ------------
-(Maybe one day when I actually get it pushed to NPM)
 `npm install -g wpg`
 
 Command Line Usage
