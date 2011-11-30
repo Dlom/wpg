@@ -1,8 +1,7 @@
 WPG
 ===
 
-> WPG
->   "Wallpaper Generator"
+> WPG: The "Wallpaper Generator"
 
 Or more accurately, the Gnome Desktop Cycling Wallpaper XML File Generator
 Kind of a mouthful, eh?  That's why it's "wpg" and not "gdcwxfg"
@@ -10,11 +9,14 @@ Kind of a mouthful, eh?  That's why it's "wpg" and not "gdcwxfg"
 Installation
 ------------
 (Maybe one day when I actually get it pushed to NPM)
+
 `npm install -g wpg`
 
 Command Line Usage
 ------------------
-`wpg` in a folder that has at least two images.
+`wpg` 
+in a folder that has at least two images.
+
 That was easy.
 
 Programmatic Usage
