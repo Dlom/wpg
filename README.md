@@ -15,7 +15,7 @@ Command Line Usage
 `wpg` 
 in a folder that has at least two images.
 
-This will generate a file that has the same name as the current folder.  You can then grab this System -> Preferences -> Appearance -> Background and select the XML file.
+This will generate an XML file that has the same name as the current folder.  You can then grab this file System -> Preferences -> Appearance -> Background and select the XML file.
 
 That was easy.
 
