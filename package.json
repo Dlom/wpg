@@ -15,7 +15,7 @@
         "node": "*"
     },
     "licenses": [{
-        "type": "WTFPL",
+        "type": "MIT",
         "url": "https://github.com/Dlom/wpg/blob/master/LICENSE"
     }],
     "devDependencies": {
